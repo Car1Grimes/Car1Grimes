@@ -5,6 +5,7 @@
 I'm a Java fullstack developer.
 
 ---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Car1Grimes&show_icons=true&theme=github_dark)](https://github.com/Car1Grimes/github-readme-stats)
 
 ## 🦀 About Me  
 
