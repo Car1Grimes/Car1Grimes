@@ -36,6 +36,8 @@ I'm a Java fullstack developer.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+![](https://github-profile-trophy.vercel.app/?username=Car1Grimes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 📂 Featured Projects
 
