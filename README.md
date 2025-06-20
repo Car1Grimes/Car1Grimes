@@ -7,7 +7,7 @@ I'm a Java fullstack developer.
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Car1Grimes&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Car1Grimes&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Car1Grimes&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Car1Grimes&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 ## 🦀 About Me  
 
 - **Fullstack Developer:** Designing scalable, reliable, and high-performance systems.  
