@@ -22,11 +22,11 @@ I'm an _undefined_ developer but we'll figure out soon.
 ## 🔧 Skills & Tools
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-JAV101?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-JAV101?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Techs
 ![SpringBoot](https://img.shields.io/badge/Springboot-SB2309?style=for-the-badge&logo=springboot&logoColor=white)
