@@ -7,10 +7,6 @@ I'm an _undefined_ developer but we'll figure out soon.
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Car1Grimes&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Car1Grimes&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
-
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Car1Grimes&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=Car1Grimes&theme=tokyonight&no-frame=false&column=3&margin-w=15&margin-h=15)
